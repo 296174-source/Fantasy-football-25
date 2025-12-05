@@ -1,3 +1,4 @@
+
 .navbar-brand {
     color: #f8f9fa !important; 
     font-weight: bold;
@@ -54,4 +55,8 @@
 
 .col-sm-4 p {
     color: #605430;
+}
+
+body {
+        background-color: #f8f9fa; 
 }
