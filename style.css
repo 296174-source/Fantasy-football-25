@@ -13,6 +13,9 @@
     color: #ffffff !important; 
 }
 
+.feature {
+  border: 3px solid #d2b48c;
+}
 .hero-section {
     background-color: #e9ecef; 
     padding-top: 80px;
@@ -39,7 +42,19 @@
     margin-top: 50px;
     margin-bottom: 50px;
 }
+.Start {
+  background-color: #ecf0f1; 
+  padding: 60px 0;
+}
 
+.Start h2 {
+  color: #2c3e50;
+}
+
+.Start .btn-dark {
+  background-color: #27ae60; 
+  border-color: #27ae60;
+}
 .feature {
     width: 150px; 
     height: 150px;
@@ -59,4 +74,12 @@
 
 body {
         background-color: #f8f9fa; 
+}
+.video {
+  background-color: #C4A484; 
+  padding-bottom: 60px;
+}
+
+.video h1 {
+  color: #2c3e50;
 }
