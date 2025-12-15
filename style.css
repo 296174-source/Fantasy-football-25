@@ -13,11 +13,22 @@
     color: #ffffff !important; 
 }
 
+.hero-section::before {
+  background-color: #d2b48c;
+}
+
+
 .feature {
   border: 3px solid #d2b48c;
 }
+
 .hero-section {
-    background-color: #e9ecef; 
+    background-color: #C4A484; 
+    border-bottom: 2px solid #ccc; 
+    padding-bottom: 20px; 
+}
+
+.hero-section {
     padding-top: 80px;
     padding-bottom: 80px;
 }
